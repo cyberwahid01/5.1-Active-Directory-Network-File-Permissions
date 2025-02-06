@@ -3,7 +3,7 @@
 </p>
 
 <h1>Active Directory: Network File Permissions 🪟</h1>
-xxxxx
+In this lab we run through the process of creating folders within a Domain Controller and configuring different levels of access for different users within our domain. We will use the same Active Directory Server and Client Machine environments that we used in the last lab.
 
 (Link Back to Main Project Contents Page is at the Bottom of this Repo)
 <h2>Environments and Technologies Used</h2>
@@ -30,7 +30,7 @@ xxxxx
 <br />
 
 <p>
-<img src="" alt="1"/>
+<img src="https://i.imgur.com/UacmGY4.png" alt="1"/>
 </p>
 <p>
 2. 
@@ -38,7 +38,7 @@ xxxxx
 <br />
 
 <p>
-<img src="" alt="2"/>
+<img src="https://i.imgur.com/QILw8jO.png" alt="2"/>
 </p>
 <p>
 3. 
@@ -46,7 +46,7 @@ xxxxx
 <br />
 
 <p>
-<img src="" alt="3"/>
+<img src="https://i.imgur.com/qAZhyms.png" alt="3"/>
 </p>
 <p>
 4. 
@@ -54,7 +54,7 @@ xxxxx
 <br />
 
 <p>
-<img src="" alt="4"/>
+<img src="https://i.imgur.com/0n6GKCj.png" alt="4"/>
 </p>
 <p>
 5. 
@@ -62,14 +62,14 @@ xxxxx
 <br />
 
 <p>
-<img src="" alt="5"/>
+<img src="https://i.imgur.com/e0PuN70.png" alt="5"/>
 </p>
 <p>
 6. 
 </p>
 <br />
 
-<img src="" alt="6"/>
+<img src="https://i.imgur.com/pkVvojs.png" alt="6"/>
 </p>
 <p>
 7. 
@@ -77,7 +77,7 @@ xxxxx
 <br />
 
 <p>
-<img src="" alt="7"/>
+<img src="https://i.imgur.com/Bvhvfim.png" alt="7"/>
 </p>
 <p>
 8. 
@@ -85,7 +85,7 @@ xxxxx
 <br />
 
 <p>
-<img src="" alt="8"/>
+<img src="https://i.imgur.com/00AvUzZ.png" alt="8"/>
 </p>
 <p>
 9. 
@@ -93,14 +93,14 @@ xxxxx
 <br />
 
 <p>
-<img src="" alt="9"/>
+<img src="https://i.imgur.com/EDxJCtY.png" alt="9"/>
 </p>
 <p>
 10. 
 </p>
 <br />
 
-<img src="" alt="10"/>
+<img src="https://i.imgur.com/bovmblS.png" alt="10"/>
 </p>
 <p>
 11. 
@@ -108,7 +108,7 @@ xxxxx
 <br />
 
 <p>
-<img src="" alt="11"/>
+<img src="https://i.imgur.com/us2wqJk.png" alt="11"/>
 </p>
 <p>
 12. 
@@ -116,7 +116,7 @@ xxxxx
 <br />
 
 <p>
-<img src="" alt="12"/>
+<img src="https://i.imgur.com/VXZVUVW.png" alt="12"/>
 </p>
 <p>
 13. 
@@ -124,7 +124,7 @@ xxxxx
 <br />
 
 <p>
-<img src="" alt="13"/>
+<img src="https://i.imgur.com/7sKD0on.png" alt="13"/>
 </p>
 <p>
 14. 
@@ -132,7 +132,7 @@ xxxxx
 <br />
 
 <p>
-<img src="" alt="14"/>
+<img src="https://i.imgur.com/SeLjAuZ.png" alt="14"/>
 </p>
 <p>
 15. 
@@ -140,7 +140,7 @@ xxxxx
 <br />
 
 <p>
-<img src="" alt="15"/>
+<img src="https://i.imgur.com/0qhM7Fd.png" alt="15"/>
 </p>
 <p>
 LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/cyberwahid01/Azure-Compute-and-Networking
